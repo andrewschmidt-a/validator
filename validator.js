@@ -645,7 +645,7 @@
 		_Validator.init();
 		return this;
 	};
-	$.fn.validator.check = function(){
+	$.fn.validatorCheck = function(){
 		var _data = null;
 		var _mode = "check";
 		var _Validator = new Validator(this, _mode, _data);
