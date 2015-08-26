@@ -328,7 +328,7 @@ if($(this).validator.check()){
 */
 $('#form').validator.setCCImage({
 target : '#cc',
-path : 'http://app.lonemountaintruck.com/developers/cdn/validator/2.0.0/'
+path : //path to image files
 });
 </code>
 </pre>
